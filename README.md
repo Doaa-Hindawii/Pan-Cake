@@ -3,7 +3,7 @@
 
 ## Landing Page Project:
 The Starter code taken from udacity repository.
-This project has is a prototype project.
+This project is a prototype project.
 
 ## Table of Contents
 
