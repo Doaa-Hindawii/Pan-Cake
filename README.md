@@ -1,5 +1,8 @@
 ## Pan-Cake
- Prototype project
+It's a Prototype project about Pan-Cake.
+- Responsive website.
+- Mobile Friendly.
+##Demo ==> https://doaa-hindawii.github.io/Pan-Cake/
 
 ## Landing Page Project:
 The Starter code taken from udacity repository.
