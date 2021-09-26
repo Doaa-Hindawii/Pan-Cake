@@ -1,4 +1,4 @@
-## Pan-Cake
+## Pan-Cake 🥞
 It's a Prototype project about Pan-Cake.
 - Responsive website.
 - Mobile Friendly.
