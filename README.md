@@ -30,4 +30,4 @@ For specific, detailed instructions, look at the project instructions in the Uda
 
 
 ## Description
-The PanCake website is a landing page. I used the images from "Pexels". I used the script file of Udacity and then improved it to be unique one. I developed it to be responsive and dynamic.
+The PanCake website is a landing page. I used the images from "Pexels". I used the script file of Udacity and then improved it to be unique one. I developed it to be dynamic.
